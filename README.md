@@ -18,4 +18,4 @@ Une animation romantique inspirée du travail de [AlexDev | Web Developer](https
 
 1. Clone ce repo ou télécharge le fichier HTML :
    ```bash
-   git clone https://github.com/ton-utilisateur/love-matrix.git
+   [git clone https://github.com/ton-utilisateur/love-matrix.git](https://github.com/Snyzz-dev/Matrix-Love.git)
